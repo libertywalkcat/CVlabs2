@@ -1,0 +1,54 @@
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\dll\x86\opencv_ffmpeg410.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\dll\x64\opencv_ffmpeg410_64.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\Lab_5_3.exe.config
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\Lab_5_3.exe
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\Lab_5_3.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.csprojAssemblyReference.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.Form1.resources
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.Properties.Resources.resources
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.csproj.GenerateResource.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.csproj.CoreCompileInputs.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.csproj.CopyComplete
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.exe
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Lab_5_3\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\dll\x86\opencv_ffmpeg410.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\dll\x64\opencv_ffmpeg410_64.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\Lab_5_3.exe.config
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\Lab_5_3.exe
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\Lab_5_3.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.csprojAssemblyReference.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.Form1.resources
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.Properties.Resources.resources
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.csproj.GenerateResource.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.csproj.CoreCompileInputs.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.csproj.CopyComplete
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.exe
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\Попытка №2\Lab_5_3\Lab_5_3\obj\Debug\Lab_5_3.pdb

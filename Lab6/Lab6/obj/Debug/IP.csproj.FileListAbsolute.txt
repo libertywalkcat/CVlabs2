@@ -1,0 +1,108 @@
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\dll\x86\opencv_ffmpeg410.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\dll\x64\opencv_ffmpeg410_64.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\IP.exe.config
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\IP.exe
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\IP.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\obj\Debug\IP.csprojAssemblyReference.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\obj\Debug\IP.Form1.resources
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\obj\Debug\IP.Properties.Resources.resources
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\obj\Debug\IP.csproj.GenerateResource.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\obj\Debug\IP.csproj.CoreCompileInputs.cache
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\obj\Debug\IP.csproj.CopyComplete
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\obj\Debug\IP.exe
+C:\Users\GoodInI\Desktop\Политех\Лабораторки\2 курс 2 семестр\C# компьютерное зрение\IP\IP\IP\obj\Debug\IP.pdb
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\dll\x86\opencv_ffmpeg410.dll
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\dll\x64\opencv_ffmpeg410_64.dll
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\IP.exe.config
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\IP.exe
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\IP.pdb
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.dll
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.pdb
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.xml
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\Аника\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Аника\Desktop\IP\IP\IP\obj\Debug\IP.csprojAssemblyReference.cache
+C:\Users\Аника\Desktop\IP\IP\IP\obj\Debug\IP.Form1.resources
+C:\Users\Аника\Desktop\IP\IP\IP\obj\Debug\IP.Properties.Resources.resources
+C:\Users\Аника\Desktop\IP\IP\IP\obj\Debug\IP.csproj.GenerateResource.cache
+C:\Users\Аника\Desktop\IP\IP\IP\obj\Debug\IP.csproj.CoreCompileInputs.cache
+C:\Users\Аника\Desktop\IP\IP\IP\obj\Debug\IP.csproj.CopyComplete
+C:\Users\Аника\Desktop\IP\IP\IP\obj\Debug\IP.exe
+C:\Users\Аника\Desktop\IP\IP\IP\obj\Debug\IP.pdb
+E:\1234\IP\IP\IP\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\1234\IP\IP\IP\bin\Debug\dll\x86\opencv_ffmpeg410.dll
+E:\1234\IP\IP\IP\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\1234\IP\IP\IP\bin\Debug\dll\x64\opencv_ffmpeg410_64.dll
+E:\1234\IP\IP\IP\bin\Debug\IP.exe.config
+E:\1234\IP\IP\IP\bin\Debug\IP.exe
+E:\1234\IP\IP\IP\bin\Debug\IP.pdb
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.dll
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.dll
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.dll
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.pdb
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.xml
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.pdb
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.xml
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.xml
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\1234\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\1234\IP\IP\IP\obj\Debug\IP.csprojAssemblyReference.cache
+E:\1234\IP\IP\IP\obj\Debug\IP.Form1.resources
+E:\1234\IP\IP\IP\obj\Debug\IP.Properties.Resources.resources
+E:\1234\IP\IP\IP\obj\Debug\IP.csproj.GenerateResource.cache
+E:\1234\IP\IP\IP\obj\Debug\IP.csproj.CoreCompileInputs.cache
+E:\1234\IP\IP\IP\obj\Debug\IP.csproj.CopyComplete
+E:\1234\IP\IP\IP\obj\Debug\IP.exe
+E:\1234\IP\IP\IP\obj\Debug\IP.pdb
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\dll\x86\opencv_ffmpeg410.dll
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\dll\x64\opencv_ffmpeg410_64.dll
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\IP.exe.config
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\IP.exe
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\IP.pdb
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.dll
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.pdb
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.xml
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\obj\Debug\IP.csprojAssemblyReference.cache
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\obj\Debug\IP.Form1.resources
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\obj\Debug\IP.Properties.Resources.resources
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\obj\Debug\IP.csproj.GenerateResource.cache
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\obj\Debug\IP.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\obj\Debug\IP.csproj.CopyComplete
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\obj\Debug\IP.exe
+C:\Users\Liberty Cat\Desktop\IP\IP\IP\obj\Debug\IP.pdb
